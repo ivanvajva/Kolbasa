@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "My Pack",
+    "description": "Created on MCPack.ru",
+    "uuid": "f510bd89-f6a2-4c6c-b7c2-9040c84afc8b",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "6744ec71-3ac0-4842-986e-1d3fa5cd9b0c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
